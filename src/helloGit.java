@@ -5,6 +5,8 @@ public class helloGit {
          int b=6;
          int c= ((a+b)/2);
         System.out.println(c);
+        String g= "vaibhav";
+        System.out.println(g);
 
     }
 }
